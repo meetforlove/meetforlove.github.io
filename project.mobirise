@@ -1,0 +1,306 @@
+{
+  "settings": {
+    "name": "Site-11-24_0850",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.7",
+    "siteFonts": [],
+    "uniqCompNum": 7,
+    "versionPublish": "4.8.7"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "title": "LOVE FOR YOU",
+          "text": "International singles community that has gathered thousands of Ukrainian and Russian girls' profiles in one place in order to help men from all over the world meet Slavic women for dating and marriage.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">I want to find my love</a> ",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            ".btn": {
+              "font-size": "32px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "font-size": "24px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Kolobkova Ekaterina&nbsp;<br>26 years old<br>",
+                "contentAlign": "left",
+                "text": "Country: Ukraine&nbsp;<br>City: Kyiv<br>Marital status: never been married<br><br>About myself\n<br>I am very kind and giving person. I dedicate my life to helping people and I really love what I do. I think I have good taste in arts. Among arts I enjoy photography most of all. I am serious in my search here because I know I am in the right time in my life now to create a couple. My heart and mind are open now to let the new love come inside. I have good and bad experience in relationships. But the most important that I made conclusions from my previous relationships. I dont want to make same mistakes.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WRITE HER</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Yudina Dana&nbsp;<br>25 years old",
+                "contentAlign": "left",
+                "text": "Country: Russia\n<br>City: Moscow\n<br>Marital status: never been married\n<br><br>About myself\n<br>Hello my prince, i am your princess. I'm here to merge with someone, and forever find true love. It may sound deceptive, but you have to believe me. A young, feminine and very kind girl who needs a man who can give an ocean of happiness and love. It is pointless to waste time and spend it on loneliness. Everything is in our hands and we should be passionately happy people.<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEARCH HER</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Prudius Vitalina<br>22 years old",
+                "contentAlign": "left",
+                "text": "Country: Ukraine\n<br>City: Odessa\n<br>Marital status: single<br><br>About myself\n<br>I am very kind and romantic and one of my best traits is my good sense of humor and positive outlook on the life! I do not like to complain, I do not like conflicts. I am sure it is possible to solve all problems in a quiet way! I like to develop myself and I dream to be on the same emotional level together with my man, as I know for a couple it is very important. Beloved couple is a strong union of two hearts that make this world better!&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WRITE ME</a> ",
+                "overlay": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-2",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1279-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-7-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-7-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "\"People say that love is in every corner…\"",
+          "meta": "By Alex Brazhnik posted November 24, 2015",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "font-size": "16px",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            ".mbr-article B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "\n<div>Do you want to spend time interesting? Find the second half and just become a friend of a beautiful girl.</div>",
+          "text": "<b>JOIN US!</b>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">START CHATTING</a> ",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-5"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Company™(c) 2018 FrolEND.",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-6"
+        }
+      ]
+    }
+  }
+}

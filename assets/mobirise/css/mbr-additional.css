@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
+
+
+
+#header1-1 .btn {
+  font-size: 32px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#header1-1 P {
+  font-size: 24px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#slider-2 H1 {
+  text-align: left;
+  color: #ffffff;
+}
+#slider-2 .btn {
+  font-family: 'Titillium Web', sans-serif;
+}
+#msg-box1-5 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-5 .mbr-article {
+  color: #fff;
+}
+#msg-box1-5 .btn {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 30px;
+}
+#msg-box1-5 .mbr-header .mbr-header__text DIV {
+  font-size: 16px;
+  font-family: 'Noto Sans', sans-serif;
+}
+#msg-box1-5 .mbr-article B {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+}
